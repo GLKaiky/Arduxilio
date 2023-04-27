@@ -1,0 +1,14 @@
+ /*.vendas {
+  margin-left: 200px;
+  margin-top: 80px;
+  display: flex;
+}*/
+
+.vendas img {
+  width: 190px;
+  height: 160px;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+.coluna2

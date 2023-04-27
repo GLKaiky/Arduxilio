@@ -1,0 +1,11 @@
+.pe {
+  margin-left: 230px;
+}
+
+@media (max-width: 600px) {
+ .codigo {
+  display: flex;
+   margin-top: 60px;
+   
+ }
+}
